@@ -1,0 +1,1 @@
+﻿Select TrainId, TrainNo, Day, DepartureTime, ArrivalTime, Date from Trains; 

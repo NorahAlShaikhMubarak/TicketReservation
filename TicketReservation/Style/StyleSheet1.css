@@ -1,0 +1,59 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+div {
+    color: red;
+    font-family: cursive;
+    text-align: left;
+}
+
+#Page {
+    width: 900px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#Slidebar {
+    background-color: lightgray;
+    float: left;
+    position: absolute;
+    width: 240px;
+    height: 772px;
+}
+
+
+body {
+    text-align: center;
+}
+
+#Header {
+    background-color: red;
+    width: 898px;
+    height: 130px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+
+h1 {
+    font-size: 20px;
+}
+
+#Content {
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-right: 10%;
+    font-size: 15px;
+    color: red;
+    text-align: center;
+}
+
+
+#Menu {
+    text-align: center;
+    background-color: lightcoral;
+}
